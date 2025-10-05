@@ -1,0 +1,5 @@
+
+:focus-visible { outline: 2px solid #2563eb; outline-offset: 2px; }
+@media print { nav, .no-print { display: none !important; } }
+.img-card { aspect-ratio: 16 / 9; object-fit: cover; }
+.flag { font-size: 0.9rem; }
